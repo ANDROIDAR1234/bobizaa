@@ -20,8 +20,8 @@ global.owner = [
 global.suittag = ['212717457920'];
 global.prems = ['212717457920'];
 
-global.packname = 'bobiza bot';
-global.author = 'bobiza';
+global.packname = 'ملصقات احترافية';
+global.author = 'Hedshot1251 انتاج واخراج';
 global.wm = 'bobiza';
 global.titulowm = 'bobiza';
 global.titulowm2 = `bobiza`
